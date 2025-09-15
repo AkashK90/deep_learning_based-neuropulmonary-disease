@@ -1,0 +1,10 @@
+numpy
+pandas
+matpllotlib
+seaborn
+datetime
+sklearn
+tensorflow
+opencv/cv2
+PIL
+tqdm
