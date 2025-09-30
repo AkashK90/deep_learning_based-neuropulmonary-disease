@@ -8,3 +8,4 @@ tensorflow
 opencv/cv2
 PIL
 tqdm
+Kaggle
